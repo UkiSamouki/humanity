@@ -107,7 +107,7 @@ require_once(__DIR__ . '/vendor/autoload.php');
 
 			 	$driver->findElement(Facebook\WebDriver\WebDriverBy::id('tc_tl_co'))->click();
 
-			 	sleep(1);
+			 	sleep(2);
 
 				 $driver->executeScript("alert('Timesheet save successfully')");
 				 
