@@ -38,6 +38,7 @@ wget https://github.com/mozilla/geckodriver/releases/download/v0.19.1/geckodrive
 tar --extract --gzip --file gecko*
 sudo mv -i geckodriver /usr/bin/.
 
+
 Run command 
 
 composer install 
@@ -45,9 +46,14 @@ composer install
 for necessary dependencies. (one package facebook/webdriver)
 
 
+
+
 Open terminal in root folder
 
-Run the selenium server  java -jar selenium-server-standalone-3.141.59.jar
+Run the selenium server with command
+
+java -jar selenium-server-standalone-3.141.59.jar
+
 
 
 Open terminal in root folder
