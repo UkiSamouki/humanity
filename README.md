@@ -34,8 +34,11 @@ sudo mv -i chromedriver /usr/bin/.
 
 
 Get the gecko driver for Firefox
+
 wget https://github.com/mozilla/geckodriver/releases/download/v0.19.1/geckodriver-v0.19.1-linux64.tar.gz
+
 tar --extract --gzip --file gecko*
+
 sudo mv -i geckodriver /usr/bin/.
 
 
