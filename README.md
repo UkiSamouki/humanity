@@ -71,3 +71,12 @@ php clockIn_clockOut_test.php  second test
 
 
 Source https://blog.programster.org/getting-started-with-selenium-testing-using-php
+
+Notes use this command
+
+java -jar selenium-server-standalone-3.141.59.jar
+
+Not this command wont boot selenium standalone server
+
+java -jar selenium-server-standalone-3.141.59.jar -enablePassThrough false
+
