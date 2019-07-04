@@ -66,3 +66,8 @@ Run one of two tests with command
 php add_employee_test.php  first test
 
 php clockIn_clockOut_test.php  second test
+
+
+
+
+Source https://blog.programster.org/getting-started-with-selenium-testing-using-php
