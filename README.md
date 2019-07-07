@@ -9,7 +9,7 @@ In root folder
 
 Prerequests 
 
-Download the latest selenium standalone server
+Download the latest selenium standalone server in root fodler of application.
 
 wget https://selenium-release.storage.googleapis.com/3.141/selenium-server-standalone-3.141.59.jar
 
